@@ -27,7 +27,7 @@ while growing as a software and full-stack developer.
 
 <hr>
 
-<h3 align="center" style="color:#e84393;"><code>INTERESTS</code></h3>
+<h3 align="center" style="color:#ff4d8d;"><code>INTERESTS</code></h3>
 
 <ul>
   <li>Software Development</li>
@@ -38,7 +38,7 @@ while growing as a software and full-stack developer.
 
 <hr>
 
-<h3 align="center" style="color:#e84393;"><code>TECHNICAL SKILLS</code></h3>
+<h3 align="center" style="color:#ff4d8d;"><code>TECHNICAL SKILLS</code></h3>
 
 <p align="center">
   <!-- Languages -->
@@ -65,7 +65,7 @@ while growing as a software and full-stack developer.
 
 <hr>
 
-<h3 align="center" style="color:#e84393;"><code>CONNECT WITH ME</code></h3>
+<h3 align="center" style="color:#ff4d8d;"><code>CONNECT WITH ME</code></h3>
 
 <p align="center">
   <a href="https://instagram.com/yourusername" target="_blank">
