@@ -12,7 +12,7 @@
 
 <hr>
 
-<h3 style="color:#e84393;">About Me</h3>
+<h3 align="center" style="color:#e84393;"><code>ABOUT ME</code></h3>
 
 <p>
 I’m a <b>final-year Computer Science student</b> who genuinely enjoys programming and design.
@@ -27,7 +27,7 @@ while growing as a software and full-stack developer.
 
 <hr>
 
-<h3 style="color:#e84393;">Interests</h3>
+<h3 align="center" style="color:#e84393;"><code>INTERESTS</code></h3>
 
 <ul>
   <li>Software Development</li>
@@ -38,16 +38,34 @@ while growing as a software and full-stack developer.
 
 <hr>
 
-<h3 style="color:#e84393;">Technical Skills</h3>
+<h3 align="center" style="color:#e84393;"><code>TECHNICAL SKILLS</code></h3>
 
-<p><b>Languages:</b> Python, Java, Kotlin</p>
-<p><b>Web Stack:</b> MongoDB, Express.js, React.js, Node.js</p>
-<p><b>Databases:</b> MongoDB, SQL</p>
-<p><b>Mobile & Tools:</b> Android Studio, Flutter, VS Code, Git & GitHub</p>
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat">
+</p>
+
+<p align="center">
+  <!-- Web Stack -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/Express.js-black?logo=express&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat">
+</p>
+
+<p align="center">
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/Git-GitHub-black?logo=github&style=flat">
+</p>
 
 <hr>
 
-<h3 style="color:#e84393;">Connect With Me</h3>
+<h3 align="center" style="color:#e84393;"><code>CONNECT WITH ME</code></h3>
 
 <p align="center">
   <a href="https://instagram.com/yourusername" target="_blank">
