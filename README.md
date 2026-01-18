@@ -12,9 +12,7 @@
 
 <hr>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F39C12&center=true&vCenter=true&width=300&lines=ABOUT+ME" />
-</p>
+<h3 style="color:#e84393;">About Me</h3>
 
 <p>
 I’m a <b>final-year Computer Science student</b> who genuinely enjoys programming and design.
@@ -29,9 +27,7 @@ while growing as a software and full-stack developer.
 
 <hr>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&width=350&lines=INTERESTS" />
-</p>
+<h3 style="color:#e84393;">Interests</h3>
 
 <ul>
   <li>Software Development</li>
@@ -42,31 +38,16 @@ while growing as a software and full-stack developer.
 
 <hr>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=27AE60&center=true&vCenter=true&width=400&lines=TECHNICAL+SKILLS" />
-</p>
+<h3 style="color:#e84393;">Technical Skills</h3>
 
-<p>
-<b>Languages:</b> Python, Java, Kotlin
-</p>
-
-<p>
-<b>Web Stack:</b> MongoDB, Express.js, React.js, Node.js
-</p>
-
-<p>
-<b>Databases:</b> MongoDB, SQL
-</p>
-
-<p>
-<b>Mobile & Tools:</b> Android Studio, Flutter, VS Code, Git & GitHub
-</p>
+<p><b>Languages:</b> Python, Java, Kotlin</p>
+<p><b>Web Stack:</b> MongoDB, Express.js, React.js, Node.js</p>
+<p><b>Databases:</b> MongoDB, SQL</p>
+<p><b>Mobile & Tools:</b> Android Studio, Flutter, VS Code, Git & GitHub</p>
 
 <hr>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E84393&center=true&vCenter=true&width=450&lines=CONNECT+WITH+ME" />
-</p>
+<h3 style="color:#e84393;">Connect With Me</h3>
 
 <p align="center">
   <a href="https://instagram.com/yourusername" target="_blank">
